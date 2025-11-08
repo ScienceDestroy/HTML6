@@ -1,6 +1,6 @@
 # HTML6
 
-Иконка Apple:
+```Иконка Apple:
 <li>
   <a href="#" class="icon-link apple" aria-label="Apple" title="Apple"></a>
 </li>
@@ -23,7 +23,7 @@
   </a>
 </li>        
 
-
+```
 @import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..700&display=swap');
 
 font-family: "Stack Sans Text", sans-serif;
