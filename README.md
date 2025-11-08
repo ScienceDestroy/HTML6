@@ -24,3 +24,6 @@
 </li>        
 
 
+@import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..700&display=swap');
+
+font-family: "Stack Sans Text", sans-serif;
