@@ -34,3 +34,35 @@ https://www.apple.com/v/home/ci/images/heroes/iphone-17-pro/hero_iphone_17_pro__
 ```
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
 ```
+```<div class="navbar">
+    <nav>
+    <ul class="nav">
+        <li>
+            <a href="#" class="icon-link apple" aria-label="Apple" title="Apple">
+                <i class="fa-brands fa-apple" aria-hidden="true"></i>
+            </a>
+        </li>
+        <li><a href="#">Store</a></li>
+        <li><a href="#">Mac</a></li>
+        <li><a href="#">iPad</a></li>
+        <li><a href="#">iPhone</a></li>
+        <li><a href="#">Watch</a></li>
+        <li><a href="#">AirPods</a></li>
+        <li><a href="#">TV & Home</a></li>
+        <li><a href="#">Entertainment</a></li>
+        <li><a href="#">Accessories</a></li>
+        <li><a href="#">Support</a></li>
+        <li>
+            <a href="#" class="icon-link" aria-label="Search" title="Search">
+                <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="icon-link" aria-label="Shopping Bag" title="Shopping Bag">
+                <i class="fa-solid fa-bag-shopping" aria-hidden="true"></i>
+            </a>
+        </li>
+    </ul>
+    </nav>
+</div>
+```
