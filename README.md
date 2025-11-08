@@ -67,5 +67,5 @@ https://www.apple.com/v/home/ci/images/heroes/iphone-17-pro/hero_iphone_17_pro__
 </div>
 ```
 ```
-https://i.ibb.co/QF9mWZVy/image.png
+https://www.apple.com/v/home/ci/images/heroes/iphone-air/hero_iphone_air__0gxyavihpiqu_largetall_2x.jpg
 ```
