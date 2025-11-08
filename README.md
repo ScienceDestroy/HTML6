@@ -69,3 +69,6 @@ https://www.apple.com/v/home/ci/images/heroes/iphone-17-pro/hero_iphone_17_pro__
 ```
 https://www.apple.com/v/home/ci/images/heroes/iphone-air/hero_iphone_air__0gxyavihpiqu_largetall_2x.jpg
 ```
+```
+https://www.apple.com/v/macbook-pro/av/images/overview/welcome/hero_endframe__e4ls9pihykya_xlarge.jpg
+```
