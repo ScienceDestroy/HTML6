@@ -27,3 +27,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..700&display=swap');
 
 font-family: "Stack Sans Text", sans-serif;
+
+```
+https://www.apple.com/v/home/ci/images/heroes/iphone-17-pro/hero_iphone_17_pro__bknyzxfk2agi_large_2x.jpg"
+```
